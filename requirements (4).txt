@@ -1,0 +1,9 @@
+aiogram==3.15.0
+SQLAlchemy==2.0.36
+asyncpg==0.30.0
+aiosqlite==0.20.0
+pydantic-settings==2.6.1
+openpyxl==3.1.5
+python-docx==1.1.2
+Pillow==10.4.0
+google-generativeai==0.8.3

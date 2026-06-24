@@ -1,0 +1,6 @@
+BOT_TOKEN=123456789:AAExampleToken
+DATABASE_URL=postgresql+asyncpg://user:pass@host:5432/dbname
+SUPER_ADMIN_ID=123456789
+ORG_NAME=ООО "TO'PALANG HPD HOLDING"
+ORG_OBJECT=Строительство насосная станция на Заминском районе
+GEMINI_API_KEY=AIzaSy...
